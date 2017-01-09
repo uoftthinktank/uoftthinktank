@@ -90,6 +90,18 @@ body,
     background-size: cover;
 }
 
+.carousel-item:nth-child(8) {
+    background-image: url("../img/club1-0.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carousel-item:nth-child(9) {
+    background-image: url("../img/club1-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /*Caption*/
 
 .flex-center {
